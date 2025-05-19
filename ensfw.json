@@ -1,13 +1,24 @@
 {
   "name": "NSFW 1.0",
+  "author": "by unknown",
   "description": "idk",
   "version": "1.0",
   "authors": [
     {
-      "name": "nsfw 1.0,
+      "name": "nsfw 1.0",
       "id": "69"
     }
   ],
+  "colors": {
+    "accent": "#D9467C",
+    "background": "#121212",
+    "backgroundSecondary": "#1F1B24",
+    "text": "#F5E6E8",
+    "textMuted": "#B0889B",
+    "interactiveNormal": "#D9467C",
+    "interactiveHover": "#F272A0"
+  },
+  "customCSS": "body::before { content: ''; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: url('https://raw.githubusercontent.com/babyhub-cmyk/Ywissnjsiw/refs/heads/main/IMG_0704.webp') center/cover no-repeat; filter: blur(7px) brightness(0.8); opacity: 0.85; z-index: -1; }",
   "semanticColors": {
     "ANDROID_RIPPLE": ["#e63946"],
     "CHAT_BACKGROUND": ["#181818"],

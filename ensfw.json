@@ -1,20 +1,5 @@
 {
   "name": "NSFW 1.0",
-  "author": "by unknown",
-  "description": "idk",
-  "colors": {
-    "accent": "#D9467C",
-    "background": "#121212",
-    "backgroundSecondary": "#1F1B24",
-    "text": "#F5E6E8",
-    "textMuted": "#B0889B",
-    "interactiveNormal": "#D9467C",
-    "interactiveHover": "#F272A0"
-  },
-  "customCSS": "body::before { content: ''; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: url('') center/cover no-repeat; filter: blur(7px) brightness(0.8); opacity: 0.85; z-index: -1; }"
-}
-{
-  "name": "NSFW 1.0",
   "description": "idk",
   "version": "1.0",
   "authors": [

@@ -1,0 +1,20 @@
+{
+  "name": "NSFW 1.0",
+  "author": "by unknown",
+  "description": "A dark, loving theme with custom colors and background image",
+  "background": {
+    "image": "https://i.imgur.com/gXlm4wY.jpg",
+    "blur": 7,
+    "opacity": 0.85,
+    "brightness": 0.8
+  },
+  "colors": {
+    "accent": "#D9467C",
+    "background": "#121212",
+    "backgroundSecondary": "#1F1B24",
+    "text": "#F5E6E8",
+    "textMuted": "#B0889B",
+    "interactiveNormal": "#D9467C",
+    "interactiveHover": "#F272A0"
+  }
+}

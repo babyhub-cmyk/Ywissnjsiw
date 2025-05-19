@@ -1,0 +1,20 @@
+{
+  "name": "NSFW 1.0",
+  "author": "by unknown",
+  "description": "idk",
+  "background": {
+    "image": "https://raw.githubusercontent.com/babyhub-cmyk/Ywissnjsiw/refs/heads/main/IMG_0704.webp",
+    "blur": 7,
+    "opacity": 0.85,
+    "brightness": 0.8
+  },
+  "colors": {
+    "accent": "#D9467C",
+    "background": "#121212",
+    "backgroundSecondary": "#1F1B24",
+    "text": "#F5E6E8",
+    "textMuted": "#B0889B",
+    "interactiveNormal": "#D9467C",
+    "interactiveHover": "#F272A0"
+  }
+}
